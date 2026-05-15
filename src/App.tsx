@@ -68,7 +68,7 @@ const SERVICES = [
     icon: <Play className="w-6 h-6" />,
     image: "/images/festas-photo.webp"
   },
-  {<!-- teste -->
+  {
     title: "Aniversários",
     description: "Celebre a vida com uma apresentação íntima e envolvente. Do som ambiente no jantar às batidas animadas da festa, criamos a trilha sonora ideal que reflete sua personalidade em uma comemoração marcante.",
     icon: <Calendar className="w-6 h-6" />,
